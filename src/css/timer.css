@@ -68,3 +68,7 @@
 .label {
     text-transform: uppercase;
 }
+
+.back-link {
+    margin-bottom: 8px;
+}

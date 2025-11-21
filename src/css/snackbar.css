@@ -81,3 +81,7 @@ button {
     line-height: 1.5;
     letter-spacing: .04em;
 }
+
+.back-link {
+    margin-bottom: 8px;
+}
